@@ -14,7 +14,7 @@ Performance metrics (Performance Score, Engagement Survey, Absences)
 
 Recruitment source and diversity-related attributes
 
-📁 Sample Columns
+📁 
 Column Name	Description
 Employee_Name	Full name of the employee
 EmpID	Unique employee identifier
